@@ -18,7 +18,11 @@ There is also a clear button at the top to clear the text box.
 
 >## How to Run
 execute this command in terminal:
+
+```
 python main.py
+```
+
 
 
 >## Results
