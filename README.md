@@ -52,6 +52,14 @@ Whoever can first place their mark in three cells next to each other vertically,
 you can click on 🔄️New game🔄️ button and start a new game!
 if you change the mode of game then game will be restarted and you have to start again.
 
+>## How to Run
+execute this command in terminal:
+
+```
+python main.py
+```
+
+
 # Output:
 ![concentric](Tic_Tac_Toe.png)
 
